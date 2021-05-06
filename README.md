@@ -14,17 +14,17 @@ Once we have a complete database, we run the SQL queries to obtain the following
 
 1. List the following details of each employee: 
 
-  employee number, last name, first name, gender, and salary.
+    employee number, last name, first name, gender, and salary.
 
 2. List employees who were hired in 1986.
 
 3. List the manager of each department with the following information: 
 
-  department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
+    department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
 
 4. List the department of each employee with the following information: 
 
-  employee number, last name, first name, and department name.
+    employee number, last name, first name, and department name.
 
 5. List all employees whose first name is "Hercules" and last names begin with "B."
 
