@@ -12,7 +12,8 @@ Used the information in ERD to create schema of csv data.
 ## Data Analysis
 Once we have a complete database, we run the SQL queries to obtain the following:
 
-1. List the following details of each employee: employee number, last name, first name, gender, and salary.
+1. List the following details of each employee: 
+  employee number, last name, first name, gender, and salary.
 
 2. List employees who were hired in 1986.
 
